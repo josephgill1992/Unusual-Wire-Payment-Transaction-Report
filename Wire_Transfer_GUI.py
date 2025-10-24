@@ -1,5 +1,4 @@
-pandas>=1.5.0
-numpy>=1.21.0
+
 matplotlib>=3.5.0
 
 
@@ -182,3 +181,4 @@ st.sidebar.info(
     "outgoing transfer amounts exceed customer wire transfer limits."
 
 )
+
