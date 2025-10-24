@@ -1,0 +1,31 @@
+Transaction ID,Customer ID,Customer Name,Date of Transaction,Beneficiary Name,Beneficiary Country,Beneficiary Bank,Outgoing Wire Transfer Amount
+SWIFT001,CUST100123,Global Tech Solutions Inc.,2024-01-15,Alpha Manufacturing GmbH,Germany,Deutsche Bank,48500.00
+SWIFT002,CUST100456,Precision Tools Ltd.,2024-01-15,Beta Distributors LLC,USA,JPMorgan Chase,32000.00
+SWIFT003,CUST100789,Oceanic Imports Co.,2024-01-16,Gamma Trading Co.,Japan,MUFG Bank,75500.00
+SWIFT004,CUST101234,Summit Consulting Group,2024-01-16,Delta Logistics,UK,Barclays,28000.00
+SWIFT005,CUST101567,Metro Retail Chain,2024-01-17,Epsilon Foods Ltd.,Canada,TD Bank,42000.00
+SWIFT006,CUST100123,Global Tech Solutions Inc.,2024-01-18,Zeta Components,Germany,Commerzbank,51000.00
+SWIFT007,CUST102345,Advanced Materials Corp,2024-01-18,Eta Manufacturing,China,ICBC,68000.00
+SWIFT008,CUST102678,Quantum Software Solutions,2024-01-19,Theta Systems,USA,Bank of America,39500.00
+SWIFT009,CUST103011,Urban Development Ltd.,2024-01-19,Iota Construction,France,BNP Paribas,72000.00
+SWIFT010,CUST103344,Green Energy Partners,2024-01-22,Kappa Resources,Australia,Commonwealth Bank,56000.00
+SWIFT011,CUST100456,Precision Tools Ltd.,2024-01-22,Lambda Tools,USA,Wells Fargo,44000.00
+SWIFT012,CUST103677,National Distribution Co.,2024-01-23,Mu Trading,Hong Kong,HSBC,61000.00
+SWIFT013,CUST104010,Innovative Tech Startups,2024-01-23,Nu Electronics,Singapore,DBS Bank,38000.00
+SWIFT014,CUST104343,Corporate Solutions Group,2024-01-24,Xi Pharmaceuticals,Switzerland,UBS,89000.00
+SWIFT015,CUST104676,Manufacturing Excellence,2024-01-24,Omicron Supplies,Netherlands,ING Bank,47000.00
+SWIFT016,CUST100123,Global Tech Solutions Inc.,2024-01-25,Pi Technologies,Germany,Deutsche Bank,52000.00
+SWIFT017,CUST105009,Financial Services Ltd.,2024-01-25,Rho Investments,UK,HSBC UK,95000.00
+SWIFT018,CUST105342,Healthcare Innovations,2024-01-26,Sigma Medical,USA,Citibank,67000.00
+SWIFT019,CUST105675,Transport & Logistics,2024-01-26,Tau Shipping,South Korea,Shinhan Bank,58000.00
+SWIFT020,CUST106008,Consumer Goods Corp,2024-01-29,Upsilon Retail,France,Société Générale,43000.00
+SWIFT021,CUST100456,Precision Tools Ltd.,2024-01-29,Phi Manufacturing,USA,JPMorgan Chase,36000.00
+SWIFT022,CUST106341,Building Materials Inc.,2024-01-30,Chi Construction,Brazil,Itaú Unibanco,71000.00
+SWIFT023,CUST106674,Digital Marketing Agency,2024-01-30,Psi Creative,Canada,Royal Bank,29000.00
+SWIFT024,CUST107007,Food Processing Co.,2024-01-31,Omega Farms,New Zealand,ANZ Bank,48000.00
+SWIFT025,CUST100789,Oceanic Imports Co.,2024-01-31,Alpha Trading Co.,Japan,MUFG Bank,82000.00
+SWIFT026,CUST107340,Automotive Parts Ltd.,2024-02-01,Beta Motors,Germany,Deutsche Bank,55000.00
+SWIFT027,CUST107673,Electronics Manufacturing,2024-02-01,Gamma Components,South Korea,Kookmin Bank,63000.00
+SWIFT028,CUST108006,Pharmaceutical Research,2024-02-02,Delta Labs,Switzerland,Credit Suisse,78000.00
+SWIFT029,CUST108339,Telecom Services Inc.,2024-02-02,Epsilon Communications,UK,Vodafone,45000.00
+SWIFT030,CUST100123,Global Tech Solutions Inc.,2024-02-05,Zeta Systems,USA,Bank of America,49000.00

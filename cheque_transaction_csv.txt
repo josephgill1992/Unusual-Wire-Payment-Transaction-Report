@@ -1,0 +1,31 @@
+Transaction ID,Customer ID,Customer Name,Recipient Name,Recipient Bank,Outgoing Cheque Amount
+CHQ001,CUST100123,Global Tech Solutions Inc.,Local Office Supplies,Chase Bank,2500.00
+CHQ002,CUST100456,Precision Tools Ltd.,IT Maintenance Co.,Bank of America,1800.00
+CHQ003,CUST100789,Oceanic Imports Co.,Customs Brokerage Ltd.,Wells Fargo,3200.00
+CHQ004,CUST101234,Summit Consulting Group,Marketing Agency Inc.,Citibank,4200.00
+CHQ005,CUST101567,Metro Retail Chain,Utility Services Co.,TD Bank,2800.00
+CHQ006,CUST102345,Advanced Materials Corp,Raw Materials Supplier,JPMorgan Chase,5600.00
+CHQ007,CUST100123,Global Tech Solutions Inc.,Employee Travel Expenses,Chase Bank,3800.00
+CHQ008,CUST102678,Quantum Software Solutions,Cloud Hosting Services,Bank of America,2900.00
+CHQ009,CUST103011,Urban Development Ltd.,Construction Materials,HSBC,6700.00
+CHQ010,CUST103344,Green Energy Partners,Equipment Maintenance,Wells Fargo,2300.00
+CHQ011,CUST100456,Precision Tools Ltd.,Tooling Supplies,Citibank,1900.00
+CHQ012,CUST103677,National Distribution Co.,Warehouse Rental,TD Bank,5100.00
+CHQ013,CUST104010,Innovative Tech Startups,Software Licenses,JPMorgan Chase,3400.00
+CHQ014,CUST104343,Corporate Solutions Group,Consulting Fees,Chase Bank,4800.00
+CHQ015,CUST104676,Manufacturing Excellence,Factory Equipment,Bank of America,7200.00
+CHQ016,CUST100123,Global Tech Solutions Inc.,Office Renovation,Wells Fargo,3900.00
+CHQ017,CUST105009,Financial Services Ltd.,Regulatory Compliance,Citibank,8500.00
+CHQ018,CUST105342,Healthcare Innovations,Medical Supplies,TD Bank,4400.00
+CHQ019,CUST105675,Transport & Logistics,Fuel Services,JPMorgan Chase,3100.00
+CHQ020,CUST106008,Consumer Goods Corp,Packaging Materials,Chase Bank,2600.00
+CHQ021,CUST100456,Precision Tools Ltd.,Quality Control Services,Bank of America,2100.00
+CHQ022,CUST106341,Building Materials Inc.,Safety Equipment,Wells Fargo,5800.00
+CHQ023,CUST106674,Digital Marketing Agency,Advertising Space,Citibank,3700.00
+CHQ024,CUST107007,Food Processing Co.,Food Safety Inspection,TD Bank,4900.00
+CHQ025,CUST100789,Oceanic Imports Co.,Port Handling Fees,JPMorgan Chase,3300.00
+CHQ026,CUST107340,Automotive Parts Ltd.,Auto Components,Chase Bank,5200.00
+CHQ027,CUST107673,Electronics Manufacturing,Electronic Parts,Bank of America,6100.00
+CHQ028,CUST108006,Pharmaceutical Research,Lab Equipment,Wells Fargo,7800.00
+CHQ029,CUST108339,Telecom Services Inc.,Network Infrastructure,Citibank,4600.00
+CHQ030,CUST100123,Global Tech Solutions Inc.,Employee Bonuses,TD Bank,5400.00

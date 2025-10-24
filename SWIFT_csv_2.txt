@@ -1,0 +1,22 @@
+Transaction ID,Customer ID,Customer Name,Date of Transaction,Beneficiary Name,Beneficiary Country,Beneficiary Bank,Outgoing Wire Transfer Amount
+SWIFT376001,CUST120001,Quantum Innovations Ltd.,2020-03-15,Nexus Solutions GmbH,Germany,Deutsche Bank,42500.00
+SWIFT376002,CUST120002,Alpha Manufacturing Group,2020-04-22,Gamma Distributors LLC,USA,JPMorgan Chase,38500.00
+SWIFT376003,CUST120003,Global Logistics Partners,2020-05-10,Beta Trading Co.,Japan,MUFG Bank,56700.00
+SWIFT376004,CUST120004,Tech Solutions Inc.,2020-06-18,Delta Imports,UK,Barclays,29800.00
+SWIFT376005,CUST120005,Precision Engineering,2020-07-05,Epsilon Exports,Canada,TD Bank,44300.00
+SWIFT376006,CUST120006,Urban Development Corp,2020-08-12,Zeta Manufacturing,Germany,Commerzbank,51200.00
+SWIFT376007,CUST120007,Green Energy Solutions,2020-09-20,Eta Components,China,ICBC,69200.00
+SWIFT376008,CUST120008,Financial Services Group,2020-10-08,Theta Systems,USA,Bank of America,40100.00
+SWIFT376009,CUST120009,Healthcare Innovations,2020-11-15,Iota Medical,France,BNP Paribas,73800.00
+SWIFT376010,CUST120010,Consumer Products Ltd.,2020-12-03,Kappa Retail,Australia,Commonwealth Bank,58100.00
+SWIFT376011,CUST120011,Advanced Materials,2021-01-14,Lambda Tools,USA,Wells Fargo,45200.00
+SWIFT376012,CUST120012,Digital Solutions Co.,2021-02-22,Mu Electronics,Hong Kong,HSBC,62700.00
+SWIFT376013,CUST120013,Industrial Supplies,2021-03-10,Nu Manufacturing,Singapore,DBS Bank,39500.00
+SWIFT376014,CUST120014,Building Materials Inc.,2021-04-18,Xi Construction,Switzerland,UBS,87600.00
+SWIFT376015,CUST120015,Food Processing Group,2021-05-26,Omicron Foods,Netherlands,ING Bank,48900.00
+SWIFT376016,CUST120016,Transport Services,2021-06-14,Pi Logistics,Germany,Deutsche Bank,53400.00
+SWIFT376017,CUST120017,Consulting Partners,2021-07-22,Rho Advisory,UK,HSBC UK,91200.00
+SWIFT376018,CUST120018,Manufacturing Tech,2021-08-30,Sigma Components,USA,Citibank,68400.00
+SWIFT376019,CUST120019,Retail Chain Corp,2021-09-17,Tau Distributors,South Korea,Shinhan Bank,59300.00
+SWIFT376020,CUST120020,Software Development,2021-10-25,Upsilon Tech,France,Société Générale,44700.00
+... (980 more rows with similar pattern spanning 2020-2024)

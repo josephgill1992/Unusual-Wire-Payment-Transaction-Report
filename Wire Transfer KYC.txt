@@ -1,0 +1,45 @@
+Customer ID,Customer Name,Wire Transfer Limit
+CUST100123,Global Tech Solutions Inc.,500.00
+CUST100456,Precision Tools Ltd.,500.00
+CUST100789,Oceanic Imports Co.,500.00
+CUST101234,Summit Consulting Group,500.00
+CUST101567,Metro Retail Chain,500.00
+CUST102345,Advanced Materials Corp.,500.00
+CUST102678,Quantum Software Solutions,500.00
+CUST103011,Urban Development Ltd.,10000.00
+CUST103344,Green Energy Partners,15000.00
+CUST103677,National Distribution Co.,20000.00
+CUST104010,Innovative Tech Startups,8000.00
+CUST104343,Corporate Solutions Group,25000.00
+CUST104676,Manufacturing Excellence,12000.00
+CUST105009,Financial Services Ltd.,30000.00
+CUST105342,Healthcare Innovations,18000.00
+CUST105675,Transport & Logistics,22000.00
+CUST106008,Consumer Goods Corp.,9000.00
+CUST106341,Building Materials Inc.,16000.00
+CUST106674,Digital Marketing Agency,7000.00
+CUST107007,Food Processing Co.,11000.00
+CUST107340,Automotive Parts Ltd.,19000.00
+CUST107673,Electronics Manufacturing,21000.00
+CUST108006,Pharmaceutical Research,28000.00
+CUST108339,Telecom Services Inc.,13000.00
+CUST120001,Quantum Innovations Ltd.,5000.00
+CUST120002,Alpha Manufacturing Group,6000.00
+CUST120003,Global Logistics Partners,17000.00
+CUST120004,Tech Solutions Inc.,7500.00
+CUST120005,Precision Engineering,8500.00
+CUST120006,Urban Development Corp.,14000.00
+CUST120007,Green Energy Solutions,16000.00
+CUST120008,Financial Services Group,22000.00
+CUST120009,Healthcare Innovations,11000.00
+CUST120010,Consumer Products Ltd.,9500.00
+CUST120011,Advanced Materials,12500.00
+CUST120012,Digital Solutions Co.,7800.00
+CUST120013,Industrial Supplies,9200.00
+CUST120014,Building Materials Inc.,15000.00
+CUST120015,Food Processing Group,10500.00
+CUST120016,Transport Services,13500.00
+CUST120017,Consulting Partners,19000.00
+CUST120018,Manufacturing Tech,16500.00
+CUST120019,Retail Chain Corp.,11500.00
+CUST120020,Software Development,8800.00

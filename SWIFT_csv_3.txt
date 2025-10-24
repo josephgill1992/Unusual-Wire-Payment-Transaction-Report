@@ -1,0 +1,41 @@
+Transaction ID,Customer ID,Customer Name,Date of Transaction,Beneficiary Name,Beneficiary Country,Beneficiary Bank,Outgoing Wire Transfer Amount
+SWIFT400001,CUST100123,Global Tech Solutions Inc.,2021-03-15,Alpha Components GmbH,Germany,Deutsche Bank,52000.00
+SWIFT400002,CUST100456,Precision Tools Ltd.,2021-04-22,Beta Manufacturing LLC,USA,JPMorgan Chase,45000.00
+SWIFT400003,CUST100789,Oceanic Imports Co.,2021-05-10,Gamma Trading Co.,Japan,MUFG Bank,68000.00
+SWIFT400004,CUST101234,Summit Consulting Group,2021-06-18,Delta Partners Ltd.,UK,Barclays,35000.00
+SWIFT400005,CUST101567,Metro Retail Chain,2021-07-05,Epsilon Distributors,Canada,TD Bank,48000.00
+SWIFT400006,CUST102345,Advanced Materials Corp,2021-08-12,Zeta Materials Inc.,Germany,Commerzbank,72000.00
+SWIFT400007,CUST100123,Global Tech Solutions Inc.,2021-09-20,Eta Technologies,China,ICBC,89000.00
+SWIFT400008,CUST102678,Quantum Software Solutions,2021-10-08,Theta Systems Corp,USA,Bank of America,42000.00
+SWIFT400009,CUST103011,Urban Development Ltd.,2021-11-15,Iota Construction Group,France,BNP Paribas,95000.00
+SWIFT400010,CUST103344,Green Energy Partners,2021-12-03,Kappa Energy Solutions,Australia,Commonwealth Bank,61000.00
+SWIFT400011,CUST100456,Precision Tools Ltd.,2022-01-14,Lambda Tools International,USA,Wells Fargo,53000.00
+SWIFT400012,CUST103677,National Distribution Co.,2022-02-22,Mu Logistics Group,Hong Kong,HSBC,76000.00
+SWIFT400013,CUST104010,Innovative Tech Startups,2022-03-10,Nu Electronics Ltd.,Singapore,DBS Bank,44000.00
+SWIFT400014,CUST104343,Corporate Solutions Group,2022-04-18,Xi Pharmaceuticals AG,Switzerland,UBS,102000.00
+SWIFT400015,CUST104676,Manufacturing Excellence,2022-05-26,Omicron Supply Chain,Netherlands,ING Bank,58000.00
+SWIFT400016,CUST100123,Global Tech Solutions Inc.,2022-06-14,Pi Advanced Systems,Germany,Deutsche Bank,67000.00
+SWIFT400017,CUST105009,Financial Services Ltd.,2022-07-22,Rho Investment Partners,UK,HSBC UK,118000.00
+SWIFT400018,CUST105342,Healthcare Innovations,2022-08-30,Sigma Medical Equipment,USA,Citibank,82000.00
+SWIFT400019,CUST105675,Transport & Logistics,2022-09-17,Tau Shipping Lines,South Korea,Shinhan Bank,69000.00
+SWIFT400020,CUST106008,Consumer Goods Corp,2022-10-25,Upsilon Retail Group,France,Société Générale,51000.00
+SWIFT400021,CUST100456,Precision Tools Ltd.,2022-11-12,Phi Manufacturing Co.,USA,JPMorgan Chase,47000.00
+SWIFT400022,CUST106341,Building Materials Inc.,2022-12-30,Chi Construction Ltd.,Brazil,Itaú Unibanco,84000.00
+SWIFT400023,CUST106674,Digital Marketing Agency,2023-01-18,Psi Creative Solutions,Canada,Royal Bank,36000.00
+SWIFT400024,CUST107007,Food Processing Co.,2023-02-25,Omega Farms International,New Zealand,ANZ Bank,55000.00
+SWIFT400025,CUST100789,Oceanic Imports Co.,2023-03-15,Alpha Global Traders,Japan,MUFG Bank,91000.00
+SWIFT400026,CUST107340,Automotive Parts Ltd.,2023-04-22,Beta Motors GmbH,Germany,Deutsche Bank,63000.00
+SWIFT400027,CUST107673,Electronics Manufacturing,2023-05-10,Gamma Components Inc.,South Korea,Kookmin Bank,77000.00
+SWIFT400028,CUST108006,Pharmaceutical Research,2023-06-18,Delta Laboratories,Switzerland,Credit Suisse,125000.00
+SWIFT400029,CUST108339,Telecom Services Inc.,2023-07-05,Epsilon Communications,UK,Vodafone,49000.00
+SWIFT400030,CUST100123,Global Tech Solutions Inc.,2023-08-12,Zeta Systems Corp,USA,Bank of America,72000.00
+SWIFT400031,CUST100456,Precision Tools Ltd.,2023-09-20,Advanced Tooling GmbH,Germany,Commerzbank,59000.00
+SWIFT400032,CUST100789,Oceanic Imports Co.,2023-10-08,Maritime Logistics Co.,Singapore,DBS Bank,88000.00
+SWIFT400033,CUST101234,Summit Consulting Group,2023-11-15,Global Advisory Partners,USA,Wells Fargo,41000.00
+SWIFT400034,CUST101567,Metro Retail Chain,2023-12-03,International Suppliers Ltd.,China,ICBC,96000.00
+SWIFT400035,CUST102345,Advanced Materials Corp,2023-12-20,Nano Materials Inc.,Japan,MUFG Bank,134000.00
+SWIFT400036,CUST100123,Global Tech Solutions Inc.,2023-12-28,Mega Tech Holdings,USA,JPMorgan Chase,285000.00
+SWIFT400037,CUST102678,Quantum Software Solutions,2023-12-29,AI Development Group,UK,Barclays,312000.00
+SWIFT400038,CUST103011,Urban Development Ltd.,2023-12-30,Global Construction Inc.,UAE,Emirates NBD,198000.00
+SWIFT400039,CUST103344,Green Energy Partners,2023-12-31,Renewable Energy Corp,Germany,Deutsche Bank,267000.00
+SWIFT400040,CUST103677,National Distribution Co.,2023-12-31,International Logistics,USA,Bank of America,224000.00

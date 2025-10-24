@@ -1,0 +1,22 @@
+Transaction ID,Customer ID,Customer Name,Recipient Name,Recipient Bank,Outgoing Cheque Amount
+CHQ376001,CUST120001,Quantum Innovations Ltd.,Office Equipment Supplier,Chase Bank,2700.00
+CHQ376002,CUST120002,Alpha Manufacturing Group,Maintenance Services,Bank of America,1950.00
+CHQ376003,CUST120003,Global Logistics Partners,Warehouse Services,Wells Fargo,3350.00
+CHQ376004,CUST120004,Tech Solutions Inc.,IT Infrastructure,Citibank,4380.00
+CHQ376005,CUST120005,Precision Engineering,Quality Control,TD Bank,2940.00
+CHQ376006,CUST120006,Urban Development Corp,Construction Materials,JPMorgan Chase,5780.00
+CHQ376007,CUST120007,Green Energy Solutions,Solar Equipment,Chase Bank,2450.00
+CHQ376008,CUST120008,Financial Services Group,Audit Services,Bank of America,3050.00
+CHQ376009,CUST120009,Healthcare Innovations,Medical Supplies,Wells Fargo,4120.00
+CHQ376010,CUST120010,Consumer Products Ltd.,Packaging Materials,Citibank,2680.00
+CHQ376011,CUST120011,Advanced Materials,Raw Materials,TD Bank,5200.00
+CHQ376012,CUST120012,Digital Solutions Co.,Software Licenses,JPMorgan Chase,3580.00
+CHQ376013,CUST120013,Industrial Supplies,Equipment Rental,Chase Bank,4780.00
+CHQ376014,CUST120014,Building Materials Inc.,Safety Equipment,Bank of America,6320.00
+CHQ376015,CUST120015,Food Processing Group,Food Supplies,Wells Fargo,3850.00
+CHQ376016,CUST120016,Transport Services,Fuel Services,Citibank,2950.00
+CHQ376017,CUST120017,Consulting Partners,Research Materials,TD Bank,5120.00
+CHQ376018,CUST120018,Manufacturing Tech,Factory Maintenance,JPMorgan Chase,4480.00
+CHQ376019,CUST120019,Retail Chain Corp,Inventory Supplies,Chase Bank,3680.00
+CHQ376020,CUST120020,Software Development,Development Tools,Bank of America,4250.00
+... (980 more rows with similar pattern)
