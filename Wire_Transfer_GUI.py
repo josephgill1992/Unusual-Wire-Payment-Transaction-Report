@@ -1,3 +1,9 @@
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+
+
 # Import required libraries
 import numpy as np
 import pandas as pd
@@ -174,4 +180,5 @@ st.sidebar.markdown("---")
 st.sidebar.info(
     "This dashboard displays unusual wire payment transactions where "
     "outgoing transfer amounts exceed customer wire transfer limits."
+
 )
