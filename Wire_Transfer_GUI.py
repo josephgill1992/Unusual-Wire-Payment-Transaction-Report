@@ -1,8 +1,4 @@
 
-matplotlib>=3.5.0
-
-
-
 # Import required libraries
 import numpy as np
 import pandas as pd
@@ -181,4 +177,5 @@ st.sidebar.info(
     "outgoing transfer amounts exceed customer wire transfer limits."
 
 )
+
 
